@@ -30,3 +30,5 @@ Tema: Cap 5 y 6 del libro Principios de circuitos eléctricos Thomas L. Floyd Oc
 ![Untitled (5)](https://user-images.githubusercontent.com/116761073/203631128-1931ddeb-0046-4bbe-86f9-04e0fc5c0022.jpg)
 
 ![Untitled (6)](https://user-images.githubusercontent.com/116761073/203631222-138146bd-275a-4d7d-976d-64241749c3dd.jpg)
+
+3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMA
