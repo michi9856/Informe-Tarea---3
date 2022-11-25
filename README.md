@@ -41,7 +41,9 @@ Tema: Cap 5 y 6 del libro Principios de circuitos eléctricos Thomas L. Floyd Oc
 ![image](https://user-images.githubusercontent.com/116761073/204047929-5af77e40-d122-4290-8747-7dd11c15c052.png)
 ![image](https://user-images.githubusercontent.com/116761073/204048086-078c0baf-0bb4-46eb-a279-32cdbb7829e6.png)
 ![image](https://user-images.githubusercontent.com/116761073/204048465-b2d22757-3f08-45e8-99f8-1509e821586a.png)
+
 ![image](https://user-images.githubusercontent.com/116761073/204048485-7842b5d7-dade-4973-91a1-62f8a52f177c.png)
+
 ![image](https://user-images.githubusercontent.com/116761073/204048523-92083a6f-fdd9-49a8-bc16-10ae4dc27bfe.png)
 ![image](https://user-images.githubusercontent.com/116761073/204048554-b72c699e-cafc-46c9-81f7-5c56104ec804.png)
 ![image](https://user-images.githubusercontent.com/116761073/204048640-9cf172d5-e0c6-46e4-9d40-6627837fe951.png)
