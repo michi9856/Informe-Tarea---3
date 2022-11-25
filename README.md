@@ -63,7 +63,7 @@ Tema: Cap 5 y 6 del libro Principios de circuitos eléctricos Thomas L. Floyd Oc
 ![image](https://user-images.githubusercontent.com/116761073/204049034-2465aa8a-c8c8-4ff9-878d-5441847bf92a.png)
 
 # 4. VÍDEO
-
+https://youtu.be/AqS6dyleYOE
 # 5.CONCLUSIONES
 
 • Con lo aprendido en esta unidad se determina que:
